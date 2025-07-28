@@ -60,6 +60,15 @@ const projects = [
     demoUrl: "#",
     githubUrl: "#",
   },
+  {
+    id: 3,
+    title: "Cocktails Page.",
+    description: "Landing Page about Cocktails and it's best seller.",
+    image: "/projects/cocktails.png",
+    tags: ["React", "CSS", "JS", "Tailwind", "GSAP"],
+    demoUrl: "https://cocktailsgsap-ivory.vercel.app/",
+    githubUrl: "#",
+  },
 ];
 
 const ProjectSection = () => {
