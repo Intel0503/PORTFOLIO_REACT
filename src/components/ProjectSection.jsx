@@ -40,7 +40,7 @@ const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "Chocolates Sales Dashboard",
     description:
       "A Dashboard with story telling which chocolates is populare and what country are most of it sold. ",
@@ -51,7 +51,7 @@ const projects = [
   },
 
   {
-    id: 3,
+    id: 5,
     title: "Student Dashboard for Enrolee.",
     description:
       "Dashboard that represent,how many students enrolled during that day. This project is web app and created during my college so it's ugly.",
@@ -61,12 +61,21 @@ const projects = [
     githubUrl: "#",
   },
   {
-    id: 3,
+    id: 6,
     title: "Cocktails Page.",
     description: "Landing Page about Cocktails and it's best seller.",
     image: "/projects/cocktails.png",
     tags: ["React", "CSS", "JS", "Tailwind", "GSAP"],
     demoUrl: "https://cocktailsgsap-ivory.vercel.app/",
+    githubUrl: "#",
+  },
+  {
+    id: 7,
+    title: "Movie List",
+    description: "Tier list of movies from TMDB.",
+    image: "/projects/Movie.png",
+    tags: ["React", "CSS", "Tailwind", "API"],
+    demoUrl: "https://movie-bice-chi-77.vercel.app/",
     githubUrl: "#",
   },
 ];
